@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hey There 👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&color=29D4F7&width=300&height=35&lines=BrahmaYatmika%F0%9F%92%BB;Genri+Aiichiro%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
