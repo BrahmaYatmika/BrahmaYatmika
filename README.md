@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning Java and GDscript 
 - 🤔 I’m looking for help with Java
-- 💬 Ask me about HTML
 - ⚡ Fun fact : ...
 
 [![](https://visitcount.itsvg.in/api?id=BrahmaYatmika&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
